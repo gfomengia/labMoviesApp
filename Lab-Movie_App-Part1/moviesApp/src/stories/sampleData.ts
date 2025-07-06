@@ -7,7 +7,7 @@ export default {
     poster_path: "/iTQHKziZy9pAAY4hHEDCGPaOvFC.jpg",
     backdrop_path: "/d8duYyyC9J5T825Hg7grmaabfxQ.jpg",
   },
-  budjet: 200000000,
+  budget: 200000000,
   genres: [
     {
       id: 14,
